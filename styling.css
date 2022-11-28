@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+}
+
+#root {
+    display: inline-block;
+    max-width: 800px;
+}
+
+.img-placeholder1 {
+    background-color: red;
+}
+
+.img-placeholder2 {
+    background-color: blue;
+}
+
+.img-placeholder3 {
+    background-color: green;
+}
+
+.img-placeholder4 {
+    background-color: yellow;
+}
